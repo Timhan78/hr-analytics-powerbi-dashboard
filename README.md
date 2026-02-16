@@ -129,6 +129,6 @@ These are real problems I encountered during the build and the lessons I took fr
 
 ## 📬 Contact
 
-**Tim Khan** — [LinkedIn](https://www.linkedin.com/in/timkhan78/) | [GitHub](https://github.com/Timhan78)
+**Tim Siraziev** — [LinkedIn](https://www.linkedin.com/in/timkhan78/) | [GitHub](https://github.com/Timhan78)
 
 Currently completing a Level 4 Data Analyst Apprenticeship (Corndel) while working at British Red Cross. Open to data analyst opportunities in the UK charity sector.
